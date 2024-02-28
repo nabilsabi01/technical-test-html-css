@@ -1,0 +1,20 @@
+*{
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1{
+  font-weight: 700;
+}
+
+header {
+  position: relative;
+  background-color: #343a40;
+  background: url("img/header-bg.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+}
+
+header h1 {
+  font-size: 2rem;
+}
