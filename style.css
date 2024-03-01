@@ -139,7 +139,7 @@
 .footer{
   width: 100%;
   height: auto;
-  background-color: #000000;
+  background-color: #335173;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -171,5 +171,5 @@
 }
 .footer p{
   text-align: center;
-  color: gray;
+  color: white;
 }
